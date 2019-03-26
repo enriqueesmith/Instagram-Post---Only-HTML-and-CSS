@@ -1,0 +1,23 @@
+.alignicons {
+   display: flex ;
+   justify-content: space-between;
+}
+
+.alignLeft{
+    display: -webkit-inline-box;
+}
+
+.brandTitle{
+    margin-top: 10px;
+    margin-left: 5px
+}
+
+.container{
+    width: 500px;
+   margin: auto;
+   background-color: white;
+}
+
+body{
+    background-color: black;
+}
